@@ -6,17 +6,24 @@ Overview
 
 This project aims to create a visually appealing and responsive landing page for a shoe store. The landing page is designed to highlight the latest shoe collections and provide a seamless browsing experience for users. The primary focus is on clean design, ease of navigation, and responsiveness across different devices.
 
+
 Features
 
 Hovering effects used
+
 Clean and modern user interface
+
 Showcase section for featured shoes
+
 Simple and intuitive navigation
+
 
 Technologies Used
 
 HTML5: For structuring the content of the landing page.
+
 CSS3: For styling the landing page, including layout, colors, and animations.
+
 
 Contributing
 
