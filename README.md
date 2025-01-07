@@ -9,7 +9,7 @@ This project aims to create a visually appealing and responsive landing page for
 
 ## Features
 
-- **Hover effects are used
+- **Hover effects are used**
 - **Clean and modern user interface**
 - **Showcase section** for featured shoes
 - **Simple and intuitive navigation**
