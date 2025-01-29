@@ -1,6 +1,6 @@
 # Shoes Landing Page
 
-Welcome to the repository for the **Shoes Landing Page** project! This project is a simple and elegant landing page for showcasing shoes, built using **HTML** and **CSS** technologies.
+Welcome to the repository for the **Shoes Landing Page** project! It is a simple and elegant landing page for showcasing shoes, built using **HTML** and **CSS** technologies.
 
 
 ## Overview
